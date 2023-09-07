@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felineAnomaly
-- 👀 I’m interested in becoming A fullstack mobile app developer.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in becoming A fullstack mobile and web app developer.
+- 🌱 I’m currently Web Developer.
 - 💞️ I’m looking to collaborate on progressively daunting mobile projects as can be.
 - 📫 How to reach me on mail: apexmorales126@gmail.com .
 
